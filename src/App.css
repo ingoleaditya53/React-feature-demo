@@ -1,0 +1,13 @@
+body {
+  margin: 0;  /* Removes any default margin */
+  font-family: Arial, sans-serif;  /* Optional: Sets a default font */
+  min-height: 100vh; 
+}
+
+.card {
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+.App{
+  background-color:cadetblue
+}
